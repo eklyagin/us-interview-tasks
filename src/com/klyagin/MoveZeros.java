@@ -28,5 +28,6 @@ public class MoveZeros {
     /** Result:
      Runtime: 0 ms, faster than 100.00% of Java online submissions for Move Zeroes.
      Memory Usage: 37.9 MB, less than 95.80% of Java online submissions for Move Zeroes.
+     Test
      **/
 }
